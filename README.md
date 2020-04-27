@@ -1,2 +1,0 @@
-# areYouReallyCrazy
-Created with CodeSandbox
